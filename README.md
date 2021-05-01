@@ -6,3 +6,5 @@ Nakuha na nako Mosh hahahaha
 #ble!
 
 #retrieve this data
+
+#now send this to github repo
