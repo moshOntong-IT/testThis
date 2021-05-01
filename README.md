@@ -8,3 +8,5 @@ Nakuha na nako Mosh hahahaha
 #retrieve this data
 
 #now send this to github repo
+
+ok let try
